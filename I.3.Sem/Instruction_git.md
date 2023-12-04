@@ -61,3 +61,17 @@ If you want see log commits all branches with full info (author, date, message, 
 If you want see shortlog commits all branches, enter command:
 
     git log --oneline --all
+
+## Moving through commits and branches
+
+Enter command to move to commit with index "hash":
+
+    git checkout <hash>
+
+*After command you will see your file change with index "hash"*
+
+Enter command for return:
+
+    git checkout <name main branch>
+
+Or enter command with index next commit, what you want see.
