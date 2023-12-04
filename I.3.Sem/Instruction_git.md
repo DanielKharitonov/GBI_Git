@@ -75,3 +75,13 @@ Enter command for return:
     git checkout <name main branch>
 
 Or enter command with index next commit, what you want see.
+
+## Viewing the changes
+
+Enter command to show changes between last commit and present file:
+
+    git diff
+
+If you want see changes between commits with index "hash1" and "hash2", enter command:
+
+    git diff <hash1> <hash2>
