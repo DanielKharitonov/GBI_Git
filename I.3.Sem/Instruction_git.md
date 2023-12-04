@@ -13,10 +13,12 @@ Enter command to create new repository into the present folder:
 Enter command to see status repository:
 
     git status
-    
-### Добавление изменений к отслежеванию
 
-Для того, чтобы добавить изменение к отслеживанию ("индекс") нужно выполнить команду:
+### Adding change to tracking
 
-    git add <filename>
+Enter command to index a change:
+
+    git add <fale_name>
+
+This means, you want add a change to next commit
 
