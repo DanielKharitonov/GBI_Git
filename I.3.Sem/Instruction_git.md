@@ -22,3 +22,24 @@ Enter command to index a change:
 
 This means, you want add a change to next commit
 
+## Commit change
+
+Enter command to commit a chenge:
+
+    git commit
+
+*When text editor (installed by default) will open, enter comment to change and exit from text editor*
+
+If you want to enter comment in terminal, enter command:
+
+    git commit -m "you comment"
+
+If you want to index all changes (execute command git add) and to commit the chenge, enter command:
+
+    git commit -a
+
+*When text editor (installed by default) will open, enter comment to change and exit from text editor*
+
+If you want to index all changes (execute command git add), to commit the chenge and to enter comment in terminal, enter command:
+
+    git commit -am "you comment"
