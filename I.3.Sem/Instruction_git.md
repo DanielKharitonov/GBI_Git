@@ -88,9 +88,13 @@ If you want see changes between commits with index "hash1" and "hash2", enter co
 
     git diff <hash1> <hash2>
 
-## Branching
+### Branching
 
 *Branching uses for collaborate on the file or changes on the file while another users use this file.*
+
+Enter command to viewing branches:
+
+    git branch
 
 Enter command to create new branc:
 
