@@ -114,3 +114,5 @@ For merging enter comman:
 
 #### Merging conflicts
 
+Error in merge process it is conflict between current local branch and branch with which do merging. It is conflict with code another programmer. Git do all for merging but some conflicts need correct by yourself.
+
