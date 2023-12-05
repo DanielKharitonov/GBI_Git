@@ -87,3 +87,10 @@ Enter command to show changes between last commit and present file:
 If you want see changes between commits with index "hash1" and "hash2", enter command:
 
     git diff <hash1> <hash2>
+
+### Просмотр всех веток
+
+Чтобы посмотреть список всех веток испальзуется команда:
+
+    git branch
+
