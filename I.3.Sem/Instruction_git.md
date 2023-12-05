@@ -124,3 +124,12 @@ For resolve conflict merging do:
 2. Correct file and delete lines  "<<<<<<< HEAD",  "=======", ">>>>>>> new_branch_to_merge_later"
 3. Save and close text redactor.
 4. Add and commit changed in repository in terminal
+
+If you work in VSC you can chose one of several resolve conflict:
+
+* Accept current change
+* Accept incoming change
+* Accept both change
+* Compare changes
+
+Or resolve conflict  on redactor
