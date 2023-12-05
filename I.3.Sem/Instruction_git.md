@@ -1,5 +1,7 @@
 # GIT Instruction
 
+![git_logo](git_logo.jpeg)
+
 _**Git** - it is system for monitoring file versions._ Program saves every change with comment. She saves difference. When you want to open file version, program loads source file and adds into the file change the version.
 
 ### Repository
