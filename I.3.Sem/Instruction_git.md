@@ -99,3 +99,7 @@ Enter command to viewing branches:
 Enter command to create new branc:
 
     git branch <branch_name>
+
+If you want delete branch, enter command with option:
+
+    git branch -d <branch_name>
