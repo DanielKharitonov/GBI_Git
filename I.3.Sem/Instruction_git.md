@@ -103,3 +103,11 @@ Enter command to create new branc:
 If you want delete branch, enter command with option:
 
     git branch -d <branch_name>
+
+### Merging branches
+
+*Merging branches used when you want joining information from two branches into one. Information will adding into branch where are you.* 
+
+For merging enter comman:
+
+    git merge <branch_name>
