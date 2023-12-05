@@ -112,4 +112,24 @@ For merging enter comman:
 
     git merge <branch_name>
 
-*If in lines one branch is information which is not in lines another branch will be merging conflict (resolution conflicts show in next section)*
+#### Merging conflicts
+
+*Error in merge process it is conflict between current local branch and branch with which do merging. It is conflict with code another programmer. Git do all for merging but some conflicts need correct by yourself.*
+
+For resolve conflict merging do:
+
+1. Open file in text redactor
+* Text between lines "<<<<<<< HEAD" and  "=======" it is text current branch.
+* Text from line "=======" to line ">>>>>>> new_branch_to_merge_later" it is branch text with which do merging
+2. Correct file and delete lines  "<<<<<<< HEAD",  "=======", ">>>>>>> new_branch_to_merge_later"
+3. Save and close text redactor.
+4. Add and commit changed in repository in terminal
+
+If you work in VSC you can chose one of several resolve conflict:
+
+* Accept current change
+* Accept incoming change
+* Accept both change
+* Compare changes
+
+Or resolve conflict  on redactor
