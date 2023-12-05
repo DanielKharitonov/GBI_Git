@@ -64,6 +64,10 @@ If you want see shortlog commits all branches, enter command:
 
     git log --oneline --all
 
+If you want see in terminal shortlog commits all branches in simple graphic form, enter command:
+
+    git log --oneline --all --graph
+
 ## Moving through commits and branches
 
 Enter command to move to commit with index "hash":
