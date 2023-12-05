@@ -111,3 +111,5 @@ If you want delete branch, enter command with option:
 For merging enter comman:
 
     git merge <branch_name>
+
+*If in lines one branch is information which is not in lines another branch will be merging conflict (resolution conflicts show in next section)*
