@@ -88,15 +88,13 @@ If you want see changes between commits with index "hash1" and "hash2", enter co
 
     git diff <hash1> <hash2>
 
-<<<<<<< HEAD
 ### Ветвления
 
 Ветвления в git нужны для ...
-=======
+
 ### Просмотр всех веток
 
 Чтобы посмотреть список всех веток испальзуется команда:
 
     git branch
->>>>>>> new_branch
 
