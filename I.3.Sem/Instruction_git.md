@@ -144,3 +144,5 @@ If you work in VSC you can chose one of several resolve conflict:
 Or resolve conflict  on redactor
 
 ### Удаленные репозитории
+
+Удаленные репозитории нужны для 
